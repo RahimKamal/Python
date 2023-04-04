@@ -1,3 +1,5 @@
+# ROUGH WORK FILE
+
 # # om = 560
 # # tm = 600
 # # p = om  / tm
@@ -60,3 +62,5 @@
 Shahab= "SHAHAB HAS BEEN BORROWED 4 MILLION RUPEES FROM ME"
 Shahab= Shahab.lower()
 print(Shahab)     
+
+

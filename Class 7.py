@@ -47,7 +47,5 @@ print(Customer_01599)
 #How to Know only Keys?
 for each_value in Customer_01599.keys():
     print(each_value)
-#How to Know only Values?
-
-for each_value in Customer_01599.values():
+#How to Know only Values?tomer_01599.values():
     print(each_value)    
